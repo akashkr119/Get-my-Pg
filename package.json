@@ -1,0 +1,19 @@
+{
+  "name": "pg-booking",
+  "version": "1.0.0",
+  "description": "A Place For Students to Book Room at affordable in their Local Area. Specifically Designed for Law Gate PGs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Final-Year-Project-Cse445/PG-Booking.git"
+  },
+  "author": "Biseswar,Sourav,Sanjay,Rudra,Akash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Final-Year-Project-Cse445/PG-Booking/issues"
+  },
+  "homepage": "https://github.com/Final-Year-Project-Cse445/PG-Booking#readme"
+}
