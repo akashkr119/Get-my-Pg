@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Final-Year-Project-Cse445/PG-Booking/issues"
   },
-  "homepage": "https://github.com/Final-Year-Project-Cse445/PG-Booking#readme"
+  "homepage": "https://github.com/Final-Year-Project-Cse445/PG-Booking#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
