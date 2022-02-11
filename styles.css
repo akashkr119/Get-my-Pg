@@ -40,7 +40,6 @@ a:hover{
     z-index: -1;
     top:0;
     left:0;
-    filter: blur(0.5px);
 }
 .txt-body{
     position: absolute;
@@ -70,4 +69,6 @@ a:hover{
 button:hover{
     border: 2px solid #fff;
     cursor: pointer;
+    background-color:cyan;
+    color:white;
 }
