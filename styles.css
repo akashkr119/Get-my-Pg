@@ -3,7 +3,7 @@
 }
 body{
     margin: 0;
-    font-family: 'Shizuru', cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     height: 100vh;
     overflow-y: hidden;
 }
@@ -64,7 +64,7 @@ a:hover{
     padding: 10px 20px;
     border-radius: 10px;
     margin-left: 20px;
-    font-family: 'Shizuru', cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: larger;
 }
 button:hover{
