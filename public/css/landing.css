@@ -1,6 +1,6 @@
 body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../assets/test04.jpg");
+    url("../assets/test02.jpg");
     /* height: 100vh;
     background-size: cover;
     background-position: center;
@@ -105,7 +105,7 @@ box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
   
   .slideshow li:nth-child(1) { 
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../assets/test01.jpg");
+    url("../assets/test06.jpg");
   }
   .slideshow li:nth-child(2) { 
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -114,7 +114,7 @@ box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
   }
   .slideshow li:nth-child(3) { 
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../assets/test02.jpg");
+    url("../assets/test05.jpg");
     animation-delay: 18s; 
   }
   .slideshow li:nth-child(4) { 
@@ -124,7 +124,7 @@ box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
   }
   .slideshow li:nth-child(5) { 
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../assets/test02.jpg");
+    url("../assets/test01.jpg");
     animation-delay: 38s; 
   }
   
