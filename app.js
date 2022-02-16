@@ -1,11 +1,20 @@
 const express = require('express');
-const app = express();
+const mongoose = require('mongoose');
 const path = require('path');
+const app = express();
 
 app.use(express.static(path.join(__dirname, 'public')))
-
 app.set('view engine', 'ejs');
 app.set('views',path.join(__dirname,'/views'));
+
+//Database Connection Code.
+mongoose.connect('mongodb://localhost:27017/test01')
+.then(()=>{ console.log('Database Connected') })
+.catch((error)=>{ 
+    console.log('Error in Connecting Databse');
+    console.log(error);
+})
+
 
 //Routes
 app.get('/',(req,res)=>{
