@@ -16,14 +16,9 @@ app.get('/home',(req,res)=>{
     res.render('home');
 })
 
-// app.get('*',(req,res)=>{
-//     res.send('Please Check Url Address');
-// })
-
-
-
-
-
+app.get('*',(req,res)=>{
+    res.send('Please Check Url Address');
+})
 
 
 app.listen(3000,()=>{

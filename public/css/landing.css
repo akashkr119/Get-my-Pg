@@ -29,7 +29,7 @@ box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
 }
 
 .px-3:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
 }
 
 .cover-container {
@@ -151,7 +151,7 @@ box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
   }
 
   footer {
-    /* position: fixed; */
+    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
